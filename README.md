@@ -2,7 +2,8 @@
 - 👀 I’m interested in Logical coding.
 - 🌱 I’m currently learning Project buliding.
 - 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me 
+- 📫 How to reach me Linkedin_id-:chetan nerkar, email-:chetannerkar92@gmail.com
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: still i am Student.
 
