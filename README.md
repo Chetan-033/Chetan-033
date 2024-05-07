@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chetan-033
+- 👋 Hi, I’m @Chetan-033 (Chetan Nerkar)
 - 👀 I’m interested in Logical coding.
 - 🌱 I’m currently learning Project buliding.
 - 💞️ I’m looking to collaborate on github.
