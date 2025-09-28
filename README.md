@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @Chetan-033 (Chetan Nerkar)
-- 👀 I’m interested in Logical coding.
-- 🌱 I’m currently learning Project buliding.
-- 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me Linkedin_id-:chetan nerkar, email-:chetannerkar92@gmail.com
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: still i am Student.
+# 👋 Hey there, I’m Chetan Nerkar (@Chetan-033)  
 
-<!---
-Chetan-033/Chetan-033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub profile!  
+
+---
+
+## 👀 About Me  
+- 💡 Passionate about **Logical Coding & Problem Solving**  
+- 🌱 Currently learning **Project Building & Real-world Applications**  
+- 🤝 Open to collaborating on **exciting projects on GitHub**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: *Still a student, but learning like a pro 🚀*  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chetan-nerkar)  
+- 📧 **Email**: chetannerkar92@gmail.com  
+
+---
+
+## 💻 Tech Stack  
+```bash
+Languages: Java | Python | JavaScript  
+Frameworks: Spring Boot | React.js | Angular  
+Databases: MySQL | PostgreSQL  
+Tools: Git | GitHub | VS Code | IntelliJ
