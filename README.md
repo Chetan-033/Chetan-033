@@ -20,8 +20,16 @@
 ---
 
 ## 💻 Tech Stack  
+
 ```bash
-Languages: Java | Python | JavaScript  
-Frameworks: Spring Boot | React.js | Angular  
-Databases: MySQL | PostgreSQL  
-Tools: Git | GitHub | VS Code | IntelliJ
+💻 Languages: 
+   ☕ Java | 🐍 Python | 🌐 JavaScript  
+
+🛠️ Frameworks: 
+   🍃 Spring Boot | ⚛️ React.js | 🅰️ Angular  
+
+🗄️ Databases: 
+   🐬 MySQL | 🐘 PostgreSQL  
+
+⚙️ Tools: 
+   🐙 Git | 🧑‍💻 GitHub | 📝 VS Code | 🚀 IntelliJ
