@@ -1,42 +1,97 @@
+<!-- Profile Header -->
+<h1 align="center">👋 Hey, I'm <a href="https://github.com/Chetan-033">Chetan Nerkar</a></h1>
+<p align="center">🚀 Junior Software Developer | 💻 Web & ERP Development | 🌱 Constant Learner</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🧑‍💼 Junior Software Developer at **Knoxed Infotech, Pune**
+- 💻 Working on **ERP systems & scalable web applications**
+- 🔍 Focused on **clean code, performance & user experience**
+- 🌱 Learning **full-stack development & system design**
+- 🤝 Open to collaborating on **open-source & real-world projects**
+- ⚡ Fun fact: I learn faster by building than reading 😄
+
+---
+
+## 💼 Work Experience
+
+### 🔹 Junior Software Developer | Knoxed Infotech Pvt. Ltd.
+📅 *Aug 2024 – Present*
+- Developing and enhancing ERP modules using **PHP, JavaScript, HTML & MySQL**
+- Improving performance, fixing bugs, and deploying feature updates
+- Collaborating with cross-functional teams for smooth releases
+
+### 🔹 IT Trainee | Knoxed Infotech Pvt. Ltd.
+📅 *Aug 2023 – Aug 2024*
+- Assisted in development and debugging of ERP modules
+- Learned and implemented best practices in software development
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,c" />
 </p>
 
 ### 🌐 Web Technologies
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🧰 Frameworks & Libraries
+### 🧰 Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Navicat-2088FF.svg?style=for-the-badge&logo=navicat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CorelDRAW-46A880.svg?style=for-the-badge&logo=coreldraw&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
 </p>
+
+---
+
+## 📦 Featured Projects
+
+### 🚆 Train Reservation & Management System
+- Java + Spring Boot based application  
+- REST APIs, MVC architecture, MySQL  
+- Tested with Postman  
+🔗 Repo: *(check pinned repositories)*  
+
+---
+
+### 🧾 Staff Leave Management System
+- PHP & JavaScript based web application  
+- Role-based access for staff, HOD & principal  
+- Officially **copyright**
+🔗 Repo: *(check pinned repositories)*  
+
+---
+
+## 🏆 Achievements
+
+- ⭐ 5⭐ Gold Badge in **Java, Python & Problem Solving** – HackerRank
+- 🥉 Second Runner-Up in **Bug Fixing** – Techkshetra (ICEM)
+- 🎉 Smart India Hackathon 2023 – Participant
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-033&show_icons=true&theme=default" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-033&layout=compact" height="140" />
+</p>
+
+---
+
+## 📈
