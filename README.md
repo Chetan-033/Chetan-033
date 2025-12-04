@@ -24,7 +24,7 @@
 - Collaborating with cross-functional teams for smooth releases
 
 ### 🔹 IT Trainee | Knoxed Infotech Pvt. Ltd.
-📅 *Jan 2025 – Jul 2024*
+📅 *Jan 2025 – Jul 2025*
 - Assisted in development and debugging of ERP modules
 - Learned and implemented best practices in software development
 
