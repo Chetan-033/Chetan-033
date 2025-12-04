@@ -18,13 +18,13 @@
 ## 💼 Work Experience
 
 ### 🔹 Junior Software Developer | Knoxed Infotech Pvt. Ltd.
-📅 *Aug 2024 – Present*
+📅 *Jul 2025 – Present*
 - Developing and enhancing ERP modules using **PHP, JavaScript, HTML & MySQL**
 - Improving performance, fixing bugs, and deploying feature updates
 - Collaborating with cross-functional teams for smooth releases
 
 ### 🔹 IT Trainee | Knoxed Infotech Pvt. Ltd.
-📅 *Aug 2023 – Aug 2024*
+📅 *Jan 2025 – Jul 2024*
 - Assisted in development and debugging of ERP modules
 - Learned and implemented best practices in software development
 
