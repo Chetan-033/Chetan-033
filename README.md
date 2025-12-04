@@ -59,24 +59,6 @@
 
 ---
 
-## 📦 Featured Projects
-
-### 🚆 Train Reservation & Management System
-- Java + Spring Boot based application  
-- REST APIs, MVC architecture, MySQL  
-- Tested with Postman  
-🔗 Repo: *(check pinned repositories)*  
-
----
-
-### 🧾 Staff Leave Management System
-- PHP & JavaScript based web application  
-- Role-based access for staff, HOD & principal  
-- Officially **copyright**
-🔗 Repo: *(check pinned repositories)*  
-
----
-
 ## 🏆 Achievements
 
 - ⭐ 5⭐ Gold Badge in **Java, Python & Problem Solving** – HackerRank
