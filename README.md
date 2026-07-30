@@ -39,12 +39,12 @@
 
 ### 🌐 Web Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angual" />
 </p>
 
 ### 🧰 Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,laravel" />
 </p>
 
 ### 🗄️ Databases
@@ -54,7 +54,7 @@
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,cursor,postman" />
 </p>
 
 ---
