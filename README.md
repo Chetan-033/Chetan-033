@@ -67,11 +67,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-033&show_icons=true&theme=default" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-033&layout=compact" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-033&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-033&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chetan-033&hide_border=true" height="165" />
 </p>
 
 ---
