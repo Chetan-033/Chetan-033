@@ -1,79 +1,94 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <a href="https://github.com/Chetan-033">Chetan Nerkar</a></h1>
-<p align="center">🚀 Junior Software Developer | 💻 Web & ERP Development | 🌱 Constant Learner</p>
+# Chetan Nerkar
+
+### Software Developer · Web Applications & ERP Systems
+
+I’m a Software Developer at **Knoxed Infotech**, focused on building and improving web applications and ERP systems. I work across backend and frontend development, with a focus on clean code, performance, and practical solutions.
+
+Currently, I’m strengthening my full-stack development skills and exploring better approaches to software architecture and system design.
 
 ---
 
-## 👨‍💻 About Me
+## Experience
 
-- 🧑‍💼 Junior Software Developer at **Knoxed Infotech, Pune**
-- 💻 Working on **ERP systems & scalable web applications**
-- 🔍 Focused on **clean code, performance & user experience**
-- 🌱 Learning **full-stack development & system design**
-- 🤝 Open to collaborating on **open-source & real-world projects**
-- ⚡ Fun fact: I learn faster by building than reading 😄
+### Junior Software Developer — Knoxed Infotech Pvt. Ltd.
 
----
+**Jul 2025 – Present · Pune, India**
 
-## 💼 Work Experience
+* Developing and enhancing ERP modules and web applications.
+* Building features using PHP, JavaScript, HTML, and MySQL.
+* Debugging issues and improving application performance.
+* Collaborating with teams to deliver reliable features and updates.
 
-### 🔹 Junior Software Developer | Knoxed Infotech Pvt. Ltd.
-📅 *Jul 2025 – Present*
-- Developing and enhancing ERP modules using **PHP, JavaScript, HTML & MySQL**
-- Improving performance, fixing bugs, and deploying feature updates
-- Collaborating with cross-functional teams for smooth releases
+### IT Trainee — Knoxed Infotech Pvt. Ltd.
 
-### 🔹 IT Trainee | Knoxed Infotech Pvt. Ltd.
-📅 *Jan 2025 – Jul 2025*
-- Assisted in development and debugging of ERP modules
-- Learned and implemented best practices in software development
+**Jan 2025 – Jul 2025 · Pune, India**
+
+* Contributed to ERP module development and debugging.
+* Assisted with feature implementation and application improvements.
+* Gained hands-on experience with software development practices.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,php,js,c" />
 </p>
 
-### 🌐 Web Technologies
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angual" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react" />
 </p>
 
-### 🧰 Frameworks
+### Backend & Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,laravel" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,laravel" />
 </p>
 
-### 🗄️ Databases
+### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙️ Tools
+### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,cursor,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- ⭐ 5⭐ Gold Badge in **Java, Python & Problem Solving** – HackerRank
-- 🥉 Second Runner-Up in **Bug Fixing** – Techkshetra (ICEM)
-- 🎉 Smart India Hackathon 2023 – Participant
+* ⭐ **5★ HackerRank** — Java, Python & Problem Solving
+* 🥉 **2nd Runner-Up** — Bug Fixing, Techkshetra (ICEM)
+* 🏆 **Smart India Hackathon 2023** — Participant
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-033&show_icons=true&theme=default" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-033&layout=compact" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-033&show_icons=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-033&layout=compact&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 📈
+## What I'm Working On
+
+* Building and improving ERP systems
+* Developing scalable web applications
+* Strengthening full-stack development skills
+* Learning software architecture and system design
+
+---
+
+<p align="center">
+  <i>Build. Learn. Improve.</i>
+</p>
