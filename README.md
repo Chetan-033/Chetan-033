@@ -1,83 +1,137 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <a href="https://github.com/Chetan-033">Chetan Nerkar</a></h1>
-<p align="center">🚀 Junior Software Developer | 💻 Web & ERP Development | 🌱 Constant Learner</p>
+# 👋 Hi, I'm Chetan Nerkar
+
+### Software Engineer · Web & ERP Development · Backend & Full-Stack Engineering
+
+I’m a **Software Engineer based in Pune, India**, currently working at **Knoxed Infotech Pvt. Ltd.**, where I build and enhance ERP systems and web applications.
+
+My work revolves around turning business requirements into **reliable, maintainable, and user-friendly software**. I enjoy solving practical engineering problems, improving existing systems, and continuously expanding my full-stack development skills.
+
+> **Build. Break. Fix. Learn. Repeat.**
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 What I Do
 
-- 🧑‍💼 Junior Software Developer at **Knoxed Infotech, Pune**
-- 💻 Working on **ERP systems & scalable web applications**
-- 🔍 Focused on **clean code, performance & user experience**
-- 🌱 Learning **full-stack development & system design**
-- 🤝 Open to collaborating on **open-source & real-world projects**
-- ⚡ Fun fact: I learn faster by building than reading 😄
-
----
-
-## 💼 Work Experience
-
-### 🔹 Junior Software Developer | Knoxed Infotech Pvt. Ltd.
-📅 *Jul 2025 – Present*
-- Developing and enhancing ERP modules using **PHP, JavaScript, HTML & MySQL**
-- Improving performance, fixing bugs, and deploying feature updates
-- Collaborating with cross-functional teams for smooth releases
-
-### 🔹 IT Trainee | Knoxed Infotech Pvt. Ltd.
-📅 *Jan 2025 – Jul 2025*
-- Assisted in development and debugging of ERP modules
-- Learned and implemented best practices in software development
+* 🏗️ Develop and maintain **ERP modules and business applications**
+* ⚙️ Build backend functionality using **PHP, Java, and MySQL**
+* 🌐 Develop responsive and interactive **web applications**
+* 🐛 Debug, optimize, and improve existing applications
+* 🔄 Work across the development lifecycle — from requirements to deployment
+* 📚 Currently strengthening my knowledge of **full-stack development & system design**
 
 ---
 
-## 🚀 Tech Stack
+## 💼 Experience
 
-### 💻 Languages
+### Junior Software Developer — Knoxed Infotech Pvt. Ltd.
+
+**Jul 2025 – Present · Pune, India**
+
+* Develop and enhance ERP modules based on business requirements
+* Work with **PHP, JavaScript, HTML, CSS, and MySQL**
+* Troubleshoot production issues and improve application reliability
+* Optimize existing functionality for better performance and usability
+* Collaborate with teams to deliver and deploy feature updates
+
+### IT Trainee — Knoxed Infotech Pvt. Ltd.
+
+**Jan 2025 – Jul 2025 · Pune, India**
+
+* Assisted with ERP module development and debugging
+* Worked on real-world application maintenance and feature enhancements
+* Gained practical experience with software development workflows
+* Learned and applied coding, debugging, and database best practices
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,php,js,c" />
 </p>
 
-### 🌐 Web Technologies
+### Web & Application Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angual" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nodejs" />
 </p>
 
-### 🧰 Frameworks
+### Frameworks & Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,laravel" />
+  <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs" />
 </p>
 
-### 🗄️ Databases
+### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙️ Tools
+### Tools & Development Environment
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,cursor,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-- ⭐ 5⭐ Gold Badge in **Java, Python & Problem Solving** – HackerRank
-- 🥉 Second Runner-Up in **Bug Fixing** – Techkshetra (ICEM)
-- 🎉 Smart India Hackathon 2023 – Participant
+| Achievement                   | Details                                         |
+| ----------------------------- | ----------------------------------------------- |
+| ⭐ HackerRank                  | 5⭐ Gold Badge in Java, Python & Problem Solving |
+| 🥉 Techkshetra — ICEM         | Second Runner-Up in Bug Fixing                  |
+| 🎯 Smart India Hackathon 2023 | Participant                                     |
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-033&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-033&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-033&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-033&layout=compact&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chetan-033&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Chetan-033&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 📈
+## 🎯 Currently Exploring
+
+```text
+Full-Stack Development
+        ↓
+Backend Architecture
+        ↓
+System Design
+        ↓
+Scalable Applications
+        ↓
+Better Engineering Practices
+```
+
+I'm currently focused on becoming a stronger **full-stack engineer**, with particular interest in backend architecture, databases, APIs, performance, and scalable application design.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on:
+
+* Open-source projects
+* Web & ERP applications
+* Backend development
+* Real-world software engineering projects
+* Interesting technical ideas
+
+If you're building something interesting, feel free to connect.
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b><br/>
+  <sub>Always learning. Always building.</sub>
+</p>
